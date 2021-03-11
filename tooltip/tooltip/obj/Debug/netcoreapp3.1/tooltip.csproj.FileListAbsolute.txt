@@ -1,0 +1,14 @@
+C:\Users\FiercePC\source\repos\tooltip\tooltip\bin\Debug\netcoreapp3.1\tooltip.exe
+C:\Users\FiercePC\source\repos\tooltip\tooltip\bin\Debug\netcoreapp3.1\tooltip.deps.json
+C:\Users\FiercePC\source\repos\tooltip\tooltip\bin\Debug\netcoreapp3.1\tooltip.runtimeconfig.json
+C:\Users\FiercePC\source\repos\tooltip\tooltip\bin\Debug\netcoreapp3.1\tooltip.runtimeconfig.dev.json
+C:\Users\FiercePC\source\repos\tooltip\tooltip\bin\Debug\netcoreapp3.1\tooltip.dll
+C:\Users\FiercePC\source\repos\tooltip\tooltip\bin\Debug\netcoreapp3.1\tooltip.pdb
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.Form1.resources
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.csproj.GenerateResource.cache
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.AssemblyInfoInputs.cache
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.AssemblyInfo.cs
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.dll
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.pdb
+C:\Users\FiercePC\source\repos\tooltip\tooltip\obj\Debug\netcoreapp3.1\tooltip.genruntimeconfig.cache
