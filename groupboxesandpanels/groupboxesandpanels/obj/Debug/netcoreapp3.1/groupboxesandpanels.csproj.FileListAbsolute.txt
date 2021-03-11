@@ -1,0 +1,14 @@
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\bin\Debug\netcoreapp3.1\groupboxesandpanels.exe
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\bin\Debug\netcoreapp3.1\groupboxesandpanels.deps.json
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\bin\Debug\netcoreapp3.1\groupboxesandpanels.runtimeconfig.json
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\bin\Debug\netcoreapp3.1\groupboxesandpanels.runtimeconfig.dev.json
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\bin\Debug\netcoreapp3.1\groupboxesandpanels.dll
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\bin\Debug\netcoreapp3.1\groupboxesandpanels.pdb
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.Form1.resources
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.csproj.GenerateResource.cache
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.AssemblyInfoInputs.cache
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.AssemblyInfo.cs
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.dll
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.pdb
+C:\Users\FiercePC\source\repos\groupboxesandpanels\groupboxesandpanels\obj\Debug\netcoreapp3.1\groupboxesandpanels.genruntimeconfig.cache
