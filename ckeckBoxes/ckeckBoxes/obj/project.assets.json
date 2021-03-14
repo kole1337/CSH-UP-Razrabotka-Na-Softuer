@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FiercePC\\OneDrive\\Documents\\c#\\cs-ushanova\\simple button\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\FiercePC\\OneDrive\\Documents\\c#\\cs-ushanova\\simple button\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\FiercePC\\source\\repos\\ckeckBoxes\\ckeckBoxes\\ckeckBoxes.csproj",
+      "projectName": "ckeckBoxes",
+      "projectPath": "C:\\Users\\FiercePC\\source\\repos\\ckeckBoxes\\ckeckBoxes\\ckeckBoxes.csproj",
       "packagesPath": "C:\\Users\\FiercePC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FiercePC\\OneDrive\\Documents\\c#\\cs-ushanova\\simple button\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\FiercePC\\source\\repos\\ckeckBoxes\\ckeckBoxes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FiercePC\\AppData\\Roaming\\NuGet\\NuGet.Config",

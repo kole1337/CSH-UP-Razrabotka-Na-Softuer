@@ -24,7 +24,7 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Button was clicked?", "Button", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Button was clicked!", "this is text", MessageBoxButtons.AbortRetryIgnore, MessageBoxIcon.Information);
             this.Close();
         }
 

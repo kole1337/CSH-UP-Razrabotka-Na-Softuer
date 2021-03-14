@@ -1,0 +1,15 @@
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\bin\Debug\netcoreapp3.1\ckeckBoxes.exe
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\bin\Debug\netcoreapp3.1\ckeckBoxes.deps.json
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\bin\Debug\netcoreapp3.1\ckeckBoxes.runtimeconfig.json
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\bin\Debug\netcoreapp3.1\ckeckBoxes.runtimeconfig.dev.json
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\bin\Debug\netcoreapp3.1\ckeckBoxes.dll
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\bin\Debug\netcoreapp3.1\ckeckBoxes.pdb
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.csprojAssemblyReference.cache
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.Form1.resources
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.csproj.GenerateResource.cache
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.AssemblyInfoInputs.cache
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.AssemblyInfo.cs
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.dll
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.pdb
+C:\Users\FiercePC\source\repos\ckeckBoxes\ckeckBoxes\obj\Debug\netcoreapp3.1\ckeckBoxes.genruntimeconfig.cache
