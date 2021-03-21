@@ -1,0 +1,14 @@
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\bin\Debug\netcoreapp3.1\NumericUpDown.exe
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\bin\Debug\netcoreapp3.1\NumericUpDown.deps.json
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\bin\Debug\netcoreapp3.1\NumericUpDown.runtimeconfig.json
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\bin\Debug\netcoreapp3.1\NumericUpDown.runtimeconfig.dev.json
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\bin\Debug\netcoreapp3.1\NumericUpDown.dll
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\bin\Debug\netcoreapp3.1\NumericUpDown.pdb
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.Form1.resources
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.AssemblyInfoInputs.cache
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.AssemblyInfo.cs
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.dll
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.pdb
+C:\Users\FiercePC\source\repos\NumericUpDown\NumericUpDown\obj\Debug\netcoreapp3.1\NumericUpDown.genruntimeconfig.cache

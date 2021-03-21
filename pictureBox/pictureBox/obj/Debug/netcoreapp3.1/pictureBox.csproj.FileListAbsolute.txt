@@ -1,0 +1,16 @@
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\bin\Debug\netcoreapp3.1\pictureBox.exe
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\bin\Debug\netcoreapp3.1\pictureBox.deps.json
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\bin\Debug\netcoreapp3.1\pictureBox.runtimeconfig.json
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\bin\Debug\netcoreapp3.1\pictureBox.runtimeconfig.dev.json
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\bin\Debug\netcoreapp3.1\pictureBox.dll
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\bin\Debug\netcoreapp3.1\pictureBox.pdb
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.csprojAssemblyReference.cache
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.Form1.resources
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.Properties.Resources.resources
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.csproj.GenerateResource.cache
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.AssemblyInfoInputs.cache
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.AssemblyInfo.cs
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.dll
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.pdb
+C:\Users\FiercePC\source\repos\pictureBox\pictureBox\obj\Debug\netcoreapp3.1\pictureBox.genruntimeconfig.cache
