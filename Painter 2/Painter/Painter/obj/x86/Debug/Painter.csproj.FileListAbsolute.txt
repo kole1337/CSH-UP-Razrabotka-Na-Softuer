@@ -1,0 +1,25 @@
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\bin\Debug\Painter.exe
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\bin\Debug\Painter.pdb
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.exe
+D:\booksEvgeni\C#\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.pdb
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.exe
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.pdb
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\bin\Debug\Painter.exe
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\bin\Debug\Painter.pdb
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.csprojAssemblyReference.cache
+D:\C#Teacher\C#2010  for programmers\examples\code examples\ch14\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\bin\Debug\Painter.exe
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\bin\Debug\Painter.pdb
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.csprojAssemblyReference.cache
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.exe
+C:\Users\FiercePC\Downloads\Painter\Painter\Painter\obj\x86\Debug\Painter.pdb
